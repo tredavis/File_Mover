@@ -1,0 +1,26 @@
+Copying files from C:\Users\12\Dropbox to D:\DropboxBackup
+moving on to the .dropbox.cache directory
+moving on to the AlbumDownloads directory
+moving on to the Beck directory
+moving on to the Development directory
+moving on to the Drafts directory
+moving on to the Fl Studio Sound Packs directory
+moving on to the Fl Studio VST's directory
+moving on to the Freestyles directory
+Making a new directory D:\DropboxBackup\Freestylesmoving on to the Houston directory
+Making a new directory D:\DropboxBackup\Houstonmoving on to the JGrizzy directory
+Making a new directory D:\DropboxBackup\JGrizzymoving on to the Lofi directory
+Making a new directory D:\DropboxBackup\Lofimoving on to the Made Songs directory
+Making a new directory D:\DropboxBackup\Made Songsmoving on to the new_erah directory
+Making a new directory D:\DropboxBackup\new_erahmoving on to the Packs directory
+Making a new directory D:\DropboxBackup\Packsmoving on to the Photos directory
+Making a new directory D:\DropboxBackup\Photosmoving on to the Resumes directory
+Making a new directory D:\DropboxBackup\Resumesmoving on to the Samples directory
+Making a new directory D:\DropboxBackup\Samplesmoving on to the SMUClassRepo directory
+Making a new directory D:\DropboxBackup\SMUClassRepomoving on to the Soundcloud directory
+Making a new directory D:\DropboxBackup\Soundcloudmoving on to the Stems directory
+Making a new directory D:\DropboxBackup\Stemsmoving on to the Submits directory
+Making a new directory D:\DropboxBackup\Submitsmoving on to the Vinyl directory
+Making a new directory D:\DropboxBackup\Vinylmoving on to the WAVS directory
+Making a new directory D:\DropboxBackup\WAVSmoving on to the YouTube directory
+Making a new directory D:\DropboxBackup\YouTube
